@@ -13,8 +13,6 @@ The application allows users to submit feedback, which is stored securely and di
 - [Features](#features)
 - [Project Structure](#project-structure)
 - [Setup Instructions](#setup-instructions)
-- [API Endpoints](#api-endpoints)
-- [Database Model](#database-model)
 - [Additional Features](#additional-features)
 - [Evaluation Criteria](#evaluation-criteria)
 
